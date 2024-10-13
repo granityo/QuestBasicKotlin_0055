@@ -24,5 +24,18 @@ fun main () {
     //Double
     val doubleValue: Double = 60.6
     println("double : $doubleValue")
+    //char
+    val charValue : Char = 'A'
+    println("Char : $charValue")
+
+    //Boolean
+    val booleanValue : Boolean = true
+    println("Blooean $booleanValue")
+
+    //String
+    val stringValue : String = "Hello World!"
+    println("String : $stringValue")
+
+
 
 }
